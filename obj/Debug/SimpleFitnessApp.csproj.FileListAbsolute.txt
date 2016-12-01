@@ -1,0 +1,6 @@
+C:\dev\simpleFitnessApp\SimpleFitnessApp\bin\Debug\SimpleFitnessApp.exe.config
+C:\dev\simpleFitnessApp\SimpleFitnessApp\bin\Debug\SimpleFitnessApp.exe
+C:\dev\simpleFitnessApp\SimpleFitnessApp\bin\Debug\SimpleFitnessApp.pdb
+C:\dev\simpleFitnessApp\SimpleFitnessApp\obj\Debug\SimpleFitnessApp.csprojResolveAssemblyReference.cache
+C:\dev\simpleFitnessApp\SimpleFitnessApp\obj\Debug\SimpleFitnessApp.exe
+C:\dev\simpleFitnessApp\SimpleFitnessApp\obj\Debug\SimpleFitnessApp.pdb
